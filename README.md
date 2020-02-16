@@ -1,4 +1,4 @@
-# FireNet: Wildfire Risk Identification System
+# <img src="leafnet_logo.png" width="5%"> # FireNet: Wildfire Risk Identification System
 
 Climate change is exacerbating wildfire likelihood and severity in the western USA prompting an urgent need to understand, estimate, and forecast wildfire risk. Assessing wildfire risk  presents several challenges due to uncertainty in fuel flammability and ignition potential. Due to complex physiological mechanisms, estimating fuel flammability and ignitional potential has not been possible on landscape scales. Current wildfire risk estimation methods are simply insufficient to accurately estimate wildfire risk because of the lack of direct flammability-associated inputs. 
 
