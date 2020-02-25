@@ -36,5 +36,7 @@ FireNet is fully transparent and explainable. We anticipated the need for explai
 ## I am sold! Where can I checkout FireNet?
 [Here](https://kkraoj.users.earthengine.app/view/wildfire-danger)
 
+___
+
 <img src="figures/group.jpg" width="100%">
 
