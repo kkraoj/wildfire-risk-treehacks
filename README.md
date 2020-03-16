@@ -1,6 +1,6 @@
 # <img src="figures/firenet-logo.png" width="3%"> FireNet: Wildfire Risk Identification System
 
-Tree our web-based risk forecasting tool [here](https://kkraoj.users.earthengine.app/view/wildfire-danger).
+Try our web-based risk forecasting tool [here](https://kkraoj.users.earthengine.app/view/wildfire-danger).
 
 ## Why forecast wildfire risk?
 Climate change is exacerbating wildfire likelihood and severity in the western USA. For instance, in the state of California, USA, in the last century, 12 of the largest wildfires, 13 of the most destructive wildfires, and 7 of the deadliest wildfires occurred during the last decade. Wildfires emit massive amounts of harmful particulate matter posing a direct threat to humans. The severity of wildfire's effects combined with the probability of them worsening in the future due to climate change. Most importantly, increasing wildfire risk prompts an urgent need to understand, estimate, and forecast wildfire risk for social inequality. Our FireNet, a deep-learning-powered system, helps improve the forecasting of wildfire risk by the following "PR. S^3" solutions:
